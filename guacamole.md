@@ -3,5 +3,5 @@
 
 ## Introduction
 *avacodo
-*pineapple
+
 ## Hello
